@@ -3,4 +3,4 @@
 • 🌱 I'm currently learning java and react <br>
 • 💞 I'm looking to collaborate on any front end projects <br>
 • 📫 How to reach me: <br>
-fehintolaakhumere@gmail.com
+fehintolakhumere@gmail.com
