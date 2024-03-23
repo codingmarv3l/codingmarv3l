@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
 </div>
 
-## Konnichiwa, I'm Fehintola <a href="https://emoji.gg/emoji/7022-akagi-miria-000"><img src="https://cdn3.emoji.gg/emojis/7022-akagi-miria-000.png" width="64px" height="64px" alt="Akagi_Miria_000"></a>
+## Konnichiwa, I'm Fehintola <a href="https://emoji.gg/emoji/7022-akagi-miria-000"><img src="https://cdn3.emoji.gg/emojis/7022-akagi-miria-000.png" width="30" height="30" alt="Akagi_Miria_000"></a>
 
 A Frontend Engineer
 
