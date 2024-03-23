@@ -6,10 +6,10 @@
 
 A Frontend Engineer
 
-* 🌍  I'm based in the spider-verse 🕸
+* 🌍  I live in the spider-verse 🕸
 * 🖥️  See my portfolio at [My Portfolio](http://myapp.com)
 * ✉️  You can contact me at [fehintolakhumere@gmail.com](mailto:fehintolakhumere@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm currently learning TypeScript
 * 🤝  I'm open to collaborating on software projects
 * ⚡  I'm secretly Spiderman 🕷...but don't tell anyone
 
