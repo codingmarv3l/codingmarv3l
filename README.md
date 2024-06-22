@@ -14,9 +14,9 @@ a Frontend Engineer
 * ⚡  i'm secretly Spiderman 🕷...but don't tell anyone
 
 ## 🌍 socials 
-[![Linkedin Badge](https://img.shields.io/badge/-Fehintola_A.-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fehintola-akhumere) 
-[![Instagram Badge](https://img.shields.io/badge/-@tolaintech-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/fehintola.ak)
-[![Twitter Badge](https://img.shields.io/badge/-@tolaintech-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/tolaintech_)
+[![Linkedin Badge](https://img.shields.io/badge/-Fehintola_A.-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-akhumere) 
+[![Instagram Badge](https://img.shields.io/badge/-@tolaintech-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/marvelakhumere)
+[![Twitter Badge](https://img.shields.io/badge/-@tolaintech-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/codingmarvel)
 
 ## ⚒ tech stack
 
