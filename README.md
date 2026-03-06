@@ -3,7 +3,7 @@
   <!-- Overlay Text -->
   <h1 style="color: #00C7B7; margin-top: -150px;">👋 Konnichiwa, I'm Marvel</h1>
   <h3 style="color: #ffffff;">Cloud Enthusiast & Backend Developer | JavaScript, Golang & Python</h3>
-  <p style="color: #aaaaaa;">I build scalable APIs, deploy to cloud, and automate infrastructure.</p>
+  <p style="color: #aaaaaa;">I design and develop scalable backend systems, manage cloud deployments, and optimize infrastructure.</p>
   
   <!-- Call to action buttons -->
   <a href="http://myapp.com" style="margin: 5px;"><img src="https://img.shields.io/badge/Portfolio-visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
