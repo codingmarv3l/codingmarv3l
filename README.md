@@ -1,9 +1,7 @@
-<div align="center">
-  <!-- Hero Background -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 10px;"/>
+<div align="right"> <img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" /> </div>
   
   <!-- Overlay Text -->
-  <h1 style="color: #00C7B7; margin-top: -150px;">👋 Hi, I'm Marvel</h1>
+  <h1 style="color: #00C7B7; margin-top: -150px;">👋 Konnichiwa, I'm Marvel</h1>
   <h3 style="color: #ffffff;">Cloud Enthusiast & Backend Developer | JavaScript, Golang & Python</h3>
   <p style="color: #aaaaaa;">I build scalable APIs, deploy to cloud, and automate infrastructure.</p>
   
@@ -53,10 +51,6 @@
 
 <a href="https://github.com/codingmarv3l">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingmarv3l&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/codingmarv3l" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmarv3l&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 ---
