@@ -1,33 +1,62 @@
-<div align="right">
-<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
+<div align="center">
+  <!-- Hero Background -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 10px;"/>
+  
+  <!-- Overlay Text -->
+  <h1 style="color: #00C7B7; margin-top: -150px;">👋 Hi, I'm Marvel</h1>
+  <h3 style="color: #ffffff;">Cloud Enthusiast & Backend Developer | JavaScript, Golang & Python</h3>
+  <p style="color: #aaaaaa;">I build scalable APIs, deploy to cloud, and automate infrastructure.</p>
+  
+  <!-- Call to action buttons -->
+  <a href="http://myapp.com" style="margin: 5px;"><img src="https://img.shields.io/badge/Portfolio-visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:marvelakhumere@gmail.com" style="margin: 5px;"><img src="https://img.shields.io/badge/Email-contact-e84393?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-## Konnichiwa, I'm Marvel <a href="https://emoji.gg/emoji/7022-akagi-miria-000"><img src="https://cdn3.emoji.gg/emojis/7022-akagi-miria-000.png" width="30" height="30" alt="Akagi_Miria_000"></a>
+---
 
-A Software Engineer | Backend Developer.
+## ⚙️ About Me
 
-* 🌍  I live in the spider-verse 🕸.
-* 🖥️  See my portfolio at [My Portfolio](http://myapp.com)
-* ✉️  You can contact me at [marvelakhumere@gmail.com](mailto:marvelakhumere@gmail.com)
-* 🧠  I'm currently learning Python.
-* 🤝  i'm open to collaborating on MERN stack projects.
-* ⚡  I'm secretly Spiderman 🕷...but don't tell anyone.
+- 🌍 Living in the spider-verse 🕸  
+- 🧠 Currently learning **Golang & Python** for backend/cloud development  
+- 🤝 Open to collaborating on **backend and cloud projects**  
+- ⚡ I'm secretly Spiderman 🕷...don't tell anyone.  
 
-## 🌍 socials 
-[![Linkedin Badge](https://img.shields.io/badge/-Eniola_A.-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-akhumere) 
-[![Instagram Badge](https://img.shields.io/badge/-@marvelakhumere-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/marvelakhumere)
-[![Twitter Badge](https://img.shields.io/badge/-@codingmarvel-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/codingmarvel)
+---
 
-## ⚒ tech stack
+## 🌐 Connect with Me
 
-![HTML5](https://img.shields.io/badge/html5-%23e34f26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-Marvel_A.-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvel-akhumere) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codingmarv3l)
 
-### my github stats
+---
 
-<a href="http://www.github.com/codingmarv3l"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codingmarv3l&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## ⚒ Tech Stack
 
-<a href="https://github.com/codingmarv3l" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmarv3l&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Backend:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Profile Visits
+**Cloud & Deployment:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-![visitors](https://komarev.com/ghpvc/?username=codingmarv3l)
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/codingmarv3l">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingmarv3l&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+<a href="https://github.com/codingmarv3l" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmarv3l&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+---
